@@ -52,7 +52,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License.
 
 ## Contact
-For queries or support, contact: `your-email@example.com`
+For queries or support, contact: `suryavardhansinghsolanki49@gmail.com`
 
 ---
 🚀 **ZK-VNFT: Redefining NFTs with Privacy & Security!**
