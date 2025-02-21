@@ -29,7 +29,7 @@ ZK-Verified NFT (ZK-VNFT) is an innovative decentralized platform designed to re
 ## Installation & Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ZK-VNFT.git
+   git clone https://github.com/suryavardhansinghsolanki/ZK-Verified-NFT-ZK-VNFT-.git
    cd ZK-VNFT
    ```
 2. **Install Dependencies:**
